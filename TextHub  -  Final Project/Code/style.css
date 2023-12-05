@@ -9,3 +9,32 @@ header {
     padding: 15px;
     background-color: #00000025;
 }
+.DisNav {
+    padding: 7.5px;
+    background-color: #00000025;
+    border-radius: 15px;
+    text-decoration:none;
+}
+.DisNav:hover {
+    background-color: #00000031;
+    color: #FF000075;
+}
+.Nav {
+    padding: 7.5px;
+    background-color: #00000025;
+    border-radius: 15px;
+    text-decoration:none;
+    color: #00000088;
+}
+.Nav:hover {
+    background-color: #00000050;
+    color: #0000FF75;
+}
+.Left {
+    float: left;
+    margin-left: 5px;
+}
+.Right {
+    float: right;
+    margin-right: 5px;
+}
