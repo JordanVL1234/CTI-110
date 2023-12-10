@@ -52,11 +52,12 @@ footer .EvenDis {
 
 /* Feed */
 .CenterHalf {
-    background: orange;
-    width: 100px;
-    height: 100px;
+    background: #00000040;
+    width: 50%;
     position: absolute;
     top: 50%;
     left: 50%;
     margin: -50px 0 0 -50px;
+    border: 1%;
+    border-color: #00000065;
 }
